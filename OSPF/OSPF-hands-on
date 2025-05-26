@@ -1,2 +1,3 @@
 OSPF (Open Shortest Path First) is a link-state routing protocol used in IP networks to determine the best path for data packets. It operates within a single autonomous system (AS) and uses the Shortest Path First (SPF) algorithm, based on Dijkstra’s algorithm, to compute the most efficient routes.
 
+I have done a OSPF connectivity establishment in Cisco Packet tracer
