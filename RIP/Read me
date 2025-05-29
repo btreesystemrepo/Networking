@@ -1,0 +1,2 @@
+Routing Information Protocol (RIP) is a distance-vector routing protocol used in computer networks to determine the best path for data packets. It operates at the network layer of the OSI model and uses hop count as its metric to measure the distance between source and destination.
+
