@@ -1,0 +1,8 @@
+Enhanced Interior Gateway Routing Protocol (EIGRP) is an advanced distance-vector routing protocol developed by Cisco. It improves upon traditional protocols like RIP by offering faster convergence and better scalability
+
+Key Features of EIGRP:
+- Hybrid Protocol: Combines features of both distance-vector and link-state protocols.
+- DUAL Algorithm: Uses the Diffusing Update Algorithm (DUAL) to ensure loop-free routing.
+- Metric Calculation: Uses a composite metric based on bandwidth, delay, reliability, and load.
+- Neighbor Discovery: Establishes neighbor relationships using Hello packets.
+- Supports VLSM & CIDR: Allows for efficient IP address allocation
