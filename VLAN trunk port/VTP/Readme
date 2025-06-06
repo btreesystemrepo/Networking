@@ -1,0 +1,2 @@
+VTP - (VLAN trunking protocol) allows to add, edit, delete the VLAN Swtiches configured as VTP server and have their other swtiches configured as VTP clients synchronize their VLAN database with them.
+This will be useful if we manage large netwrok.
